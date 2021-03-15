@@ -1,0 +1,17 @@
+{
+  "name": "lucky_solana_account",
+  "version": "1.0.0",
+  "description": "Lucky account of solana",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^0.94.2",
+    "bip39": "^3.0.3",
+    "ed25519-hd-key": "^1.2.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
