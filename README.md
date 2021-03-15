@@ -1,5 +1,4 @@
 # LuckyAccount
-查找Solana的靓号
 
 本项目批量生成solana的账号，对生成的账号进行前三位匹配，如果前三位相同，就输出到文件
 
@@ -16,3 +15,8 @@ npm install
 node run.js
 ### 5.生成的账号默认会保存到当前文件夹下的wallet.json文件中
 用文本工具打开wallet.json文件
+
+
+如果找到满意的账号或者帮助到你了，就请打赏一杯咖啡吧
+
+sol地址:
