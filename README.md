@@ -8,7 +8,7 @@
 到node官方网站https://nodejs.org/en/下载安装
 
 ### 2.使用git工具下载源码
-git clone 
+git clone https://github.com/motokocc/LuckyAccount.git
 ### 3.安装依赖
 npm install
 ### 4.运行,在源码目录下执行命令
