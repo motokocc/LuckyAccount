@@ -16,7 +16,10 @@ node run.js
 ### 5.生成的账号默认会保存到当前文件夹下的wallet.json文件中
 用文本工具打开wallet.json文件
 
+欢迎加Q或者微信交流：
+85923732
 
 如果找到满意的账号或者帮助到你了，就请打赏一杯咖啡吧
 
-sol地址:
+sol打赏地址:
+FFF7G999e28cS2LHs8kECuhWPbrGxbYRhwHufrJ2i6u6
