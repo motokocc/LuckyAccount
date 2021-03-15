@@ -23,3 +23,5 @@ node run.js
 
 sol打赏地址:
 FFF7G999e28cS2LHs8kECuhWPbrGxbYRhwHufrJ2i6u6
+
+![image](https://github.com/motokocc/LuckyAccount/blob/main/sol.png)
